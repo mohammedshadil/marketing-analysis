@@ -141,14 +141,6 @@ Based on the dashboard's displayed metrics and visualizations:
 
 ---
 
-## 📸 Dashboard Preview
-
-### Main Marketing Dashboard
-
-![Marketing Analysis Dashboard](Screenshots/Marketing_Analysis.png)
-
----
-
 ## 📂 Repository Structure
 
 ```text
@@ -161,8 +153,6 @@ Marketing-Analysis/
 └── Screenshots/
     └── Marketing_Analysis.png
 ```
-
----
 
 ## 🚀 Project Outcomes
 
